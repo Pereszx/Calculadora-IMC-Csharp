@@ -1,0 +1,14 @@
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora IMC\bin\Debug\net9.0\Calculadora IMC.exe
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora IMC\bin\Debug\net9.0\Calculadora IMC.deps.json
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora IMC\bin\Debug\net9.0\Calculadora IMC.runtimeconfig.json
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora IMC\bin\Debug\net9.0\Calculadora IMC.dll
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora IMC\bin\Debug\net9.0\Calculadora IMC.pdb
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora IMC\obj\Debug\net9.0\Calculadora IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora IMC\obj\Debug\net9.0\Calculadora IMC.AssemblyInfoInputs.cache
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora IMC\obj\Debug\net9.0\Calculadora IMC.AssemblyInfo.cs
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora IMC\obj\Debug\net9.0\Calculadora IMC.csproj.CoreCompileInputs.cache
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora IMC\obj\Debug\net9.0\Calculadora IMC.dll
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora IMC\obj\Debug\net9.0\refint\Calculadora IMC.dll
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora IMC\obj\Debug\net9.0\Calculadora IMC.pdb
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora IMC\obj\Debug\net9.0\Calculadora IMC.genruntimeconfig.cache
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora IMC\obj\Debug\net9.0\ref\Calculadora IMC.dll
